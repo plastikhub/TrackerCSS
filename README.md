@@ -1,2 +1,3 @@
-# trackercss
-Collection of stylesheets for trackers.
+# TrackerCSS
+
+### A collection of CSS stylesheets for trackers.
