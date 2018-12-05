@@ -1806,7 +1806,7 @@ ul#userinfo_username:hover li#nav_userinfo a {
 	-webkit-transition: none;
 	-o-transition: none;
 	transition: none;
-	background-image: url("assets/logo/logo-sprite-dark.png")
+	background-image: url("assets/logo-sprite-dark.png")
 }
 
 #logo a:hover {
@@ -1936,7 +1936,7 @@ ul#userinfo_username:hover li#nav_userinfo a {
 	}
 
 	ul#userinfo_username li a {
-		background: transparent url("") no-repeat 50% !important;
+		background: transparent !important;
 		background-size: 65% !important;
 		display: block !important;
 		height: 100% !important;
